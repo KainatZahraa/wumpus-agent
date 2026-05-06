@@ -1,10 +1,8 @@
-# Wumpus Logic Agent 🧠
+# Wumpus Logic Agent 
 
 A **Knowledge-Based AI Agent** that navigates a dynamic Wumpus World grid using **Propositional Logic** and **Resolution Refutation**. Built with Python (FastAPI) backend and React frontend.
 
-## Live Demo
-- **Frontend:** https://wumpus-agent.vercel.app *(deploy to update)*
-- **Backend API:** https://wumpus-agent-api.onrender.com
+
 
 ---
 
